@@ -104,4 +104,3 @@ Folder ini tidak otomatis diunggah; output PNG notebook disimpan bersama `.ipynb
 Template dan gambar referensi berasal dari materi submission Dicoding yang diberikan
 pengguna. Lisensi model mengikuti masing-masing model card; bobot model tidak
 disertakan dalam repository ini.
-

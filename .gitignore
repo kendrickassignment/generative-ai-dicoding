@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+.env
+.streamlit/secrets.toml
+*.log
+*.safetensors
+*.bin
+artifacts/
+*.zip
